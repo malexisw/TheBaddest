@@ -1,24 +1,16 @@
-# baddest
+# Baddest
 
-## Project setup
+## Description
 ```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
+The Baddest is an integration based on the video "K/DA - THE BADDEST ft. (G)I-DLE, Bea Miller, Wolftyla (clip officiel de paroles) | League of Legends" on youtube.
 ```
 
-### Compiles and minifies for production
+## Techno
 ```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
+VueJS - Javascript - HTML5 - CSS 
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Tools
+```
+Visual Studio Code - Font Awesome
+```
