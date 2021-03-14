@@ -55,12 +55,14 @@
         <h2>Context</h2>
         <hr />
         <h3>
-          Après avoir regardé une lyric video faite par Riot Games, je me suis
-          demandé si je pouvais la reproduire en HTML/CSS et malgré le manque
-          d'assets voici le résultat. <br /><br />
-          Vous pouvez trouver la vidéo originale ici pour faire une comparaison
-          :
-          <a href="https://www.youtube.com/watch?v=RkID8_gnTxw" target="_blank"  class="link"
+          After watching a lyric video made by Riot Games, I wondered if I could
+          reproduce it in HTML / CSS and despite the lack of assets, here is the
+          result.<br /><br />
+          You can find the original video here for comparison : 
+          <a
+            href="https://www.youtube.com/watch?v=RkID8_gnTxw"
+            target="_blank"
+            class="link"
             >THE BADDEST - ORIGINAL VIDEO</a
           >
         </h3>
@@ -130,6 +132,7 @@ export default {
   },
   mounted() {
     this.audio = document.getElementById("myAudio");
+    this.audio.volume = 0.5;
     this.volume = document.getElementById("volume");
 
     this.volume.addEventListener("mousemove", this.setVolume);
@@ -214,7 +217,7 @@ export default {
     },
     setVolume() {
       this.audio.volume = this.volume.value / 100;
-    }
+    },
   },
 };
 </script>

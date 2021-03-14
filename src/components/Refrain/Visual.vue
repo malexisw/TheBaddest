@@ -135,7 +135,8 @@ export default {
 
   justify-content: flex-end;
   align-items: center;
-  height: 111px;
+  height: 122px;
+  transform: translateY(25%);
 }
 
 .expand {
