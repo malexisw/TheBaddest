@@ -64,7 +64,8 @@
             target="_blank"
             class="link"
             >THE BADDEST - ORIGINAL VIDEO</a
-          >
+          > <br /><br />
+          Here is my portfolio if you want to know me : <a href="http://alexis-martel.com/">Portfolio</a>.
         </h3>
       </div>
     </section>
