@@ -1,16 +1,28 @@
-# Baddest
+# ClothingSpree
 
 ## Description
 ```
-The Baddest is an integration based on the video "K/DA - THE BADDEST ft. (G)I-DLE, Bea Miller, Wolftyla (clip officiel de paroles) | League of Legends" on youtube.
+The Baddest is a CSS integration based on the video "K/DA - THE BADDEST ft. (G)I-DLE, Bea Miller, Wolftyla (official clip of lyrics) | League of Legends" on youtube.
+
 ```
 
+### Time 
+```
+50h
+```
+
+### Release
+```
+13/06/2021
+```
 ## Techno
 ```
-VueJS - Javascript - HTML5 - CSS 
+VueJS - javascript
+
 ```
 
 ## Tools
 ```
-Visual Studio Code - Font Awesome
+VS Code - Font Awesome - Netlify
+
 ```
